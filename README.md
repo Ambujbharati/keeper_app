@@ -1,3 +1,10 @@
+# Keeper app (cloned version of google keeper web app)
+
+![image](https://user-images.githubusercontent.com/30587730/141266079-9504dbe7-0bdd-476b-adb8-9c1bc5301b08.png)
+
+![image](https://user-images.githubusercontent.com/30587730/141266370-b9b3033a-8fb5-4682-9dec-df7a078c7aa1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
